@@ -8,6 +8,7 @@ namespace BitCronch
             public static string InvalidArgs = "Error: Invalid arguments";
             public static string Usage = "Usage: bitcronch <file>\n" +
                                          "  -o <output file>";
+            public static string Cronched = "Cronched to ";
         }
     }
 }
